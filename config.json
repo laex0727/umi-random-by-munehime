@@ -1,0 +1,25 @@
+{
+    "currentRoundAbbreviation": "F",
+    "rounds": [
+        {
+            "abbreviation": "R1",
+            "round": "Round 1",
+            "levels": ["12", "12+"]
+        },
+        {
+            "abbreviation": "QF",
+            "round": "Quarterfinal",
+            "levels": ["12+", "13"]
+        },
+        {
+            "abbreviation": "SF",
+            "round": "Semifinal",
+            "levels": ["13+"]
+        },
+        {
+            "abbreviation": "F",
+            "round": "Final",
+            "levels": ["14", "14+"]
+        }
+    ]
+}
